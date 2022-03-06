@@ -1,0 +1,14 @@
+.button-red {
+  background-color: #D82148;
+  padding: 10px 15px;
+  border-radius: 10px;
+  color: white;
+  opacity: 0.8;
+  font-family: "Roboto";
+  font-size: 22px;
+}
+
+.button-red:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
